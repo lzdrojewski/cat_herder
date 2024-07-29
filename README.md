@@ -1,53 +1,13 @@
-# Lauren Zdrojewski’s Manager README (straw-yes-key)
-![Lauren Zdrojewski](images/lauren.jpg)
-
-## Table of Contents
-- [Disclaimer](#disclaimer)
-- [Motivations Behind This Document](#motivations-behind-this-document)
-- [Hi, I'm LZ!](#hi-im-lz)
-  - [Things you will hear me say, a lot](#things-you-will-hear-me-say-a-lot)
-  - [I have very little patience for](#i-have-very-little-patience-for)
-  - [Things I know about but am working on](#things-i-know-about-but-am-working-on)
-- [My Job](#my-job)
-- [What a Great Culture Looks Like to Me](#what-a-great-culture-looks-like-to-me)
-- [General Guiding Principles](#general-guiding-principles)
-- [We Think About Impact](#we-think-about-impact)
-- [How I Aspire to Manage](#how-i-aspire-to-manage)
-  - [The Model that I Follow](#the-model-that-i-follow)
-- [Management Guiding Principles](#management-guiding-principles)
-- [How Do I Measure the Success of Our Team](#how-do-i-measure-the-success-of-our-team)
-- [How Am I Going to Review Your Performance](#how-am-i-going-to-review-your-performance)
-- [My Ideal Team](#my-ideal-team)
-- [Me as a Resource](#me-as-a-resource)
-- [How Do I Think About Trust](#how-do-i-think-about-trust)
-- [Communication](#communication)
-  - [Optimize for Data/Facts/Knowledge-Based Communication](#optimize-for-datafactsknowledge-based-communication)
-  - [Words Matter](#words-matter)
-- [Feedback](#feedback)
-- [Get a Hold of Me](#get-a-hold-of-me)
-  - [Some Tips that Can Help You Get a Hold of Me](#some-tips-that-can-help-you-get-a-hold-of-me)
-- [Meetings](#meetings)
-  - [Daily Standups](#daily-standups)
-  - [Team Demo/Retros](#team-demoretros)
-  - [Team Planning](#team-planning)
-  - [1:1s](#11s)
-  - [Note on Career Development](#note-on-career-development)
-- [What to Do When You Get a Message From Me](#what-to-do-when-you-get-a-message-from-me)
-- [Decision-Making Guide](#decision-making-guide)
-  - [Decision-Making Reasoning](#decision-making-reasoning)
-  - [Decision-Making Intuition](#decision-making-intuition)
-  - [Deliberately Not Making a Decision is Also Valid](#deliberately-not-making-a-decision-is-also-valid)
-  - [Decision-Making Process](#decision-making-process)
-  - [Roadblocks and Escalation](#roadblocks-and-escalation)
-  - [When the Decision It's Not Yours to Make, or You Weren't Included, or You Simply Disagree with the Decision](#when-the-decision-its-not-yours-to-make-or-you-werent-included-or-you-simply-disagree-with-the-decision)
-- [Cheers!](#cheers)
+# Lauren Z’s Manager README 
+(Updated July 2024)
+![Lauren Zdrojewski](images/ready)
 
 ## Disclaimer
-This document MUST not be read in any way that applies to any other manager from other departments, groups, divisions, or teams of Jack Henry.  
+This document MUST not be read in any way that applies to any other manager from other departments, groups, divisions, or teams of **Open Season Here!**.  
 You will find my document close to those you encounter online and sometimes a copy & paste, and that's OK. It just means I couldn't put it in better words.  
 This document is a living document.  
-If you find my beliefs, style, and ways of working are not wholly aligned with what you observe in Jack Henry, that's OK. I'll be learning and evolving my views and ways of working with the sole intent of serving you and Jack Henry best.  
-I'm pleased to work with you at Jack Henry, where I hope it becomes a place where you'll grow, develop, contribute, and enjoy your professional hours. I'm also hopeful that the journey gets easier with your fresh ideas and enthusiasm.  
+If you find my beliefs, style, and ways of working are not wholly aligned with what you observe in, and that's OK. I'll be learning and evolving my views and ways of working with the sole intent of serving you and our ethics and paycheck best.  
+I'm pleased to work with you. I hope it becomes a place where you'll grow, develop, contribute, and enjoy your professional hours. I'm also hopeful that the journey gets easier with your fresh ideas and enthusiasm.  
 I look forward to working with you. Welcome to the team!
 
 ## Motivations Behind This Document
@@ -61,9 +21,9 @@ Having been inspired by several documents/posts on the importance of a Manager's
 **Important**: This document is NOT meant as a replacement for us getting to know each other! We'll learn more about each other over time.
 
 ## Hi, I'm LZ!
-I'm originally from Cleveland, recently from Buffalo, and currently in the suburbs of Chicago! I started in software in 2006 at a company that started doing online course evaluations in their sales/marketing support areas, and as they grew into college admissions, I grew my career into Quality Assurance and into management. I enjoy walking the lines between engineering and stakeholders (the engineers can't talk to the people!) and helping individuals grow personally and professionally. If you report to me, I'm here for the long term!
+I'm originally from Cleveland, recently from Buffalo, and currently in the suburbs of Chicago! I started in software in 2006 at a company that started doing online course evaluations in their sales/marketing support areas, and as they grew into college admissions, I grew my career into Quality Assurance as a lead and then with a focus on agile principles, I landed into QA and Engineering management. I enjoy walking the lines between engineering and stakeholders (the engineers can't talk to the people!) and helping individuals grow personally and professionally. If you report to me, I'm here for the long term!
 
-I am married to my husband Jake (15 years), and we have two boys, Casey (11) and Maxwell (7). In my spare time, I love being on my kayak and baking.
+I am married to my husband Jake (a long time), and we have two boys. In my spare time, I love being on my kayak and baking.
 
 Some nice things hailed to me are: "firm but friendly".
 
@@ -87,13 +47,12 @@ As an Engineering Manager, my job is to:
 - Attract and retain world-class talent. That's you.
 - Assure the growth and development of individuals and teams.
 - Represent our team up and out.
-- Help Jack Henry with processes and structure so that we have a scalable, effective, and efficient organization.
+- Help the company with processes and structure so that we have a scalable, effective, and efficient organization.
 - Influence decisions.
 - Set context and expected business outcomes so that everyone can connect the dots on what Jack Henry needs, understand why/what the priorities are, and what needs to get done.
 - Foster and nurture ownership, whereby everyone is a business owner by developing guiding principles to simplify and decentralize decision-making.
 - Help people to develop secondary relationships.
-- Help to develop Jack Henry's Engineering brand.
-- Assure we're all delivering business value that meets or exceeds Jack Henry's goals.
+- Assure we're all delivering business value that meets or exceeds goals.
 - Create more leaders, not more followers, while setting these leaders up to succeed.
 
 ## What a Great Culture Looks Like to Me
@@ -124,7 +83,7 @@ As an Engineering Manager, my job is to:
 ## We Think About Impact
 - **Consistency**: Are you able to deliver work that matters not just once but does so sustainably over time?
 - **Velocity**: What's the rate at which you deliver impact, not just the cumulative impact you have achieved.
-- **Ownership**: Think long term and take ownership of what and how you deliver impact in line with Jack Henry's objectives.
+- **Ownership**: Think long term and take ownership of what and how you deliver impact in line with big picture objectives.
 - **Accountability**: Everyone is accountable for delivering impact. More senior levels are held more directly accountable for the business impact of their decisions and actions.
 - **Materiality**: You deliver what you said you would deliver by the time you committed to deliver it.
 - **Force Multipliers**: Individually, we're accountable for impact, but what would happen if you actively help your wider team create impact? What happens when we radiate positivity?
@@ -138,8 +97,6 @@ As an Engineering Manager, my job is to:
 - **Be one that cares**: Nothing really matters if people don't feel that you deeply care about their growth, success, and them as human beings. By deeply caring, you'll be fostering a strong sense of belonging, a holistic sense of ownership, and ultimately loyalty. Others come first, or in other words, we eat last!
 - **Think global, act locally**: Think in systems, a company is not a sum of all parts but the product of its interactions! We need everyone from everywhere in Jack Henry to be successful. A problem anywhere is a shared problem, and a win anywhere is a shared win!
 
-**Remember**: We run companies, manage processes and things, and lead people!
-
 ## Management Guiding Principles
 - Our #1 priority is our people. We'll always find time to attract, retain, coach, and lead our people while continually raising the bar, even when it is uncomfortable. We take it as an article of faith that it is the right decision long-term.
 - Customers are at the front and center of everything we do.
@@ -150,20 +107,20 @@ As an Engineering Manager, my job is to:
 ## How Do I Measure the Success of Our Team
 - Team health and everyone's well-being is high.
 - Customer's quantitative and qualitative feedback about the software we ship is positive.
-- We're strong contributors to Jack Henry's objectives/goals.
+- We're strong contributors to bigger picture objectives/goals.
 
 ## How Am I Going to Review Your Performance
 - You foster a diverse and inclusive team environment where everyone has a strong sense of belonging.
 - You're productive and results-oriented.
 - You're a good communicator within the team.
-- You collaborate effectively across Jack Henry.
+- You collaborate effectively across other teams.
 - You're a reliable decision-maker.
 - You're a willing learner and seek to improve yourself.
 - You're a team player that develops productive and meaningful relationships at all levels.
 
 ## My Ideal Team
 - Has a strong sense of belonging.
-- Takes control of, and responsibility for, our own destiny in alignment with Jack Henry’s objectives.
+- Takes control of, and responsibility for, our own destiny in alignment with team objectives.
 - Has each other's back.
 - Holds each other accountable.
 - Expects excellence in themselves and then in others.
@@ -224,13 +181,10 @@ Please tell me how you prefer to receive feedback. If not, I'll ask you how you 
 ## Get a Hold of Me
 I’m pretty easy to get a hold of. I will always make myself available if you need me.
 
-### Some Tips that Can Help You Get a Hold of Me
-- **Emergency**: find me -> call me -> text me -> slack me -> drop me an email. Do whatever you need to do to get a hold of me.
-- **Urgent matter**: text me -> slack me -> drop me an email.
-- **Important matter**: slack me -> drop me an email.
-- If you would like a meeting or discussion, initiate finding time in my calendar and make the appointment. If I suggest a discussion, I will do the same. Don't say "let's discuss" without a quick follow-up of when we'll discuss.
-
 ## Meetings
+### Coffee Talk
+Informal team chats where we can catch up on just about anything.
+
 ### Daily Standups
 Daily standups occur (you guessed it) daily at 10:30am CST with an average duration of 15 minutes with my direct reports in a team setting. We meet via Slack in an informal huddle setting. It helps the team navigate our day, and is imperative to the success of staying accountable. It's also a forum where team members:
 - Have an opportunity to see work updates and move tickets to completion together.
@@ -266,8 +220,6 @@ Your career is yours, not mine. You know best how you'd like to grow and in what
 
 ## What to Do When You Get a Message From Me
 I don't expect you to respond to everything in real-time, but I expect you to close the loop on everything we open in a timely manner. If it's on my plate, I will do the same. I get frustrated when I have to ask about something twice or ask about something that we've agreed you should have come back to me with.  
-I like fast turnaround and acknowledgement on written communications like a "got it" or "on it" type acknowledgement, so I know things we're discussing are moving.  
-I tend to send FYIs to keep you in the loop. Unless you have a simple question that can't be discussed on other forums, there's no need to reply.  
 If you're CC'ed, I'm not expecting you to reply, but it's perfectly acceptable that you choose to do so. Just be conscious that you're jumping on someone else's conversation.
 
 ## Decision-Making Guide
@@ -314,4 +266,4 @@ You're expected to:
 We all have those moments where we have a gut reaction "I don't like this", "It doesn't make sense whatsoever", "this is wrong", etc. Pace yourself! Know your position first; don't just say 'no' and expect others to try to convince you. Start by completing the sentence: "I [don't agree with/don't think we should do/don't like] X because…". If it doesn't sound strong enough or right, it usually is because it's not. Think a bit more, take it off-line, and come back later with good arguments.
 
 ## Cheers!
-You made it to the end! Spoiler alert! My last name is pronounced S-M-I-T-H.
+You made it to the end! Spoiler alert! My last name is pronounced Straw-yes-key
