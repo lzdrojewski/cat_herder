@@ -49,7 +49,7 @@ As an Engineering Manager, my job is to:
 - Represent our team up and out.
 - Help the company with processes and structure so that we have a scalable, effective, and efficient organization.
 - Influence decisions.
-- Set context and expected business outcomes so that everyone can connect the dots on what Jack Henry needs, understand why/what the priorities are, and what needs to get done.
+- Set context and expected business outcomes so that everyone can connect the dots on what the company needs, understand why/what the priorities are, and what needs to get done.
 - Foster and nurture ownership, whereby everyone is a business owner by developing guiding principles to simplify and decentralize decision-making.
 - Help people to develop secondary relationships.
 - Assure we're all delivering business value that meets or exceeds goals.
@@ -70,7 +70,7 @@ As an Engineering Manager, my job is to:
 
 ## General Guiding Principles
 - Integrity, honesty, and authenticity are never up for discussion.
-- You work for Jack Henry, not for me, and I serve you, not the other way around.
+- You work for the company, not for me, and I serve you, not the other way around.
 - We're a team, one team. Our behaviors are conducive to a cohesive, effective, and efficient team.
 - We assume the best intentions in everyone until proven otherwise. We set lean and humane checks & balances to ensure cultural deviations don't go unacknowledged.
 - We're biased towards transparency. Anyone can ask us anything and often will get an answer. Sometimes we can't disclose information, but we're committed to never lie.
@@ -95,7 +95,7 @@ As an Engineering Manager, my job is to:
 - **Be a role model**: Your behaviors matter to everyone around you. Model the behavior you expect from others. If you want to effect change, you must often adjust yourself to embody the change you wish to make.
 - **Be a coach**: It all starts by actively listening! Then help individuals and teams to gain self-awareness and self-reflection; set and clarify objectives; achieve their development objectives; unlock their potential; act as a sounding board. The coach's job is to ensure individuals and teams thrive and grow.
 - **Be one that cares**: Nothing really matters if people don't feel that you deeply care about their growth, success, and them as human beings. By deeply caring, you'll be fostering a strong sense of belonging, a holistic sense of ownership, and ultimately loyalty. Others come first, or in other words, we eat last!
-- **Think global, act locally**: Think in systems, a company is not a sum of all parts but the product of its interactions! We need everyone from everywhere in Jack Henry to be successful. A problem anywhere is a shared problem, and a win anywhere is a shared win!
+- **Think global, act locally**: Think in systems, a company is not a sum of all parts but the product of its interactions! We need everyone from everywhere in this company to be successful. A problem anywhere is a shared problem, and a win anywhere is a shared win!
 
 ## Management Guiding Principles
 - Our #1 priority is our people. We'll always find time to attract, retain, coach, and lead our people while continually raising the bar, even when it is uncomfortable. We take it as an article of faith that it is the right decision long-term.
@@ -256,7 +256,7 @@ I expect you to align with the following decision-making process:
 Let me know when you bump into a roadblock that you can't solve or something needs approval from Leadership. I'll work with you. Don't get hung up on "process", upcoming meetings, and such. Just-in-time escalation is usually more efficient.
 
 ### When the Decision It's Not Yours to Make, or You Weren't Included, or You Simply Disagree with the Decision
-If you genuinely agree with the decision, happy days. Join forces and let's get it done. It is, however, harder to buy into a decision that you don't agree with and/or you weren't consulted on. While I'll always try to include you, decisions must happen at the right level. The right level is dictated by the Jack Henry structure and processes. Sometimes life just happens. The world is not perfect. Note that I'll not be looking for consensus at all costs.
+If you genuinely agree with the decision, happy days. Join forces and let's get it done. It is, however, harder to buy into a decision that you don't agree with and/or you weren't consulted on. While I'll always try to include you, decisions must happen at the right level. The right level is dictated by the company structure and processes. Sometimes life just happens. The world is not perfect. Note that I'll not be looking for consensus at all costs.
 
 You're expected to:
 - Provide clear and factual-based arguments why you disagree with the decision on the right forum.
