@@ -3,8 +3,10 @@
 ![Lauren Zdrojewski](images/ready)
 
 ## Disclaimer
-This document MUST not be read in any way that applies to any other manager from other departments, groups, divisions, or teams of **Open Season Here!**.  
-You will find my document close to those you encounter online and sometimes a copy & paste, and that's OK. It just means I couldn't put it in better words.  
+This document MUST not be read in any way that applies to any other manager from other departments, groups, divisions, or teams.
+
+You will find my document close to those you encounter online and sometimes a copy & paste, and that's OK. It just means I couldn't put it in better words.  Maybe someone copy and pasted my words too! I don't judge though, I make some good stuff.
+
 This document is a living document.  
 If you find my beliefs, style, and ways of working are not wholly aligned with what you observe in, and that's OK. I'll be learning and evolving my views and ways of working with the sole intent of serving you and our ethics and paycheck best.  
 I'm pleased to work with you. I hope it becomes a place where you'll grow, develop, contribute, and enjoy your professional hours. I'm also hopeful that the journey gets easier with your fresh ideas and enthusiasm.  
