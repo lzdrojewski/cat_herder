@@ -1,5 +1,5 @@
 # Lauren Z’s Manager README 
-(Updated July 2024)
+(Updated December 2024)
 ![Lauren Zdrojewski](images/ready)
 
 ## Disclaimer
